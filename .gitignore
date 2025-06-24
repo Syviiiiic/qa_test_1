@@ -1,0 +1,17 @@
+# Кэш Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Файлы окружения
+.env
+.env.local
+
+# Файлы IDE
+.idea/
+.vscode/
+
+# Пакеты и зависимости
+*.egg-info/
+dist/
+build/
